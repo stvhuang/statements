@@ -1,0 +1,23 @@
+option "title" "stvhuang"
+option "operating_currency" "SGD"
+option "operating_currency" "TWD"
+option "operating_currency" "USD"
+
+2026-01-01 open Equity:Opening-Balances SGD, TWD, USD
+
+2026-01-01 open Assets:Cash SGD, TWD, USD
+2026-01-01 open Assets:Bank:LINE-TW TWD, USD
+2026-01-01 open Assets:Bank:Richart-TW TWD
+2026-01-01 open Assets:Bank:DBS-SG SGD, USD
+2026-01-01 open Assets:Bank:Trust-SG SGD
+2026-01-01 open Assets:Investment:Moomoo-SG SGD, USD
+2026-01-01 open Assets:Investment:IBKR-SG SGD, USD
+
+; init
+2026-01-01 * "Init"
+   Equity:Opening-Balances
+   Assets:Bank:DBS-SG      1430.33 SGD
+   Assets:Bank:LINE-TW       29380 TWD
+   Assets:Bank:Richart-TW      200 TWD
+
+include "./2026/**/*.bean"
