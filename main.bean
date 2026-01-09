@@ -6,11 +6,13 @@ option "operating_currency" "USD"
 
 2026-01-01 open Equity:Opening-Balances
 
-2026-01-01 open Assets:Cash CNY, SGD, TWD, USD
-2026-01-01 open Assets:Bank:TW-LINE TWD, USD
-2026-01-01 open Assets:Bank:TW-Richart TWD
 2026-01-01 open Assets:Bank:SG-DBS SGD, USD
 2026-01-01 open Assets:Bank:SG-Trust SGD
+2026-01-01 open Assets:Bank:TW-ChunghwaPost TWD
+2026-01-01 open Assets:Bank:TW-ChunghwaPost-TD TWD ; time deposit
+2026-01-01 open Assets:Bank:TW-LINE TWD, USD
+2026-01-01 open Assets:Bank:TW-Richart TWD
+2026-01-01 open Assets:Cash CNY, SGD, TWD, USD
 
 2026-01-01 open Assets:Investment:SG-Moomoo:Securities
 2026-01-01 open Assets:Investment:SG-Moomoo:Futures
@@ -20,43 +22,49 @@ option "operating_currency" "USD"
 2026-01-01 open Expenses:Housing:Internet
 2026-01-01 open Expenses:Housing:Rent
 2026-01-01 open Expenses:Housing:Utilities
+2026-01-01 open Expenses:Insurance:Government
+2026-01-01 open Expenses:Tax:Income
+2026-01-01 open Expenses:Tax:Interest
 2026-01-01 open Expenses:Transport:Public
 2026-01-01 open Expenses:Transport:Taxi
+2026-01-01 open Income:Interest
 
 ; init
 2026-01-01 * "Init"
    Equity:Opening-Balances
-   Assets:Bank:SG-DBS                       1430.33 SGD
-   Assets:Bank:SG-Trust                       53.67 SGD
-   Assets:Bank:TW-LINE                        29380 TWD
-   Assets:Bank:TW-Richart                       200 TWD
-   Assets:Cash                                3,000 USD
-   Assets:Investment:SG-Moomoo:Securities  8,040.29 USD
-   Assets:Investment:SG-Moomoo:Securities         2 AVGO
-   Assets:Investment:SG-Moomoo:Securities       400 BOXX
-   Assets:Investment:SG-Moomoo:Securities        42 IBIT
-   Assets:Investment:SG-Moomoo:Securities        17 METU
-   Assets:Investment:SG-Moomoo:Securities         2 ORCL
-   Assets:Investment:SG-Moomoo:Securities   88.2052 QQQ
-   Assets:Investment:SG-Moomoo:Securities        15 RKLB
-   Assets:Investment:SG-Moomoo:Securities        98 SMR
-   Assets:Investment:SG-Moomoo:Securities        19 SOFI
-   Assets:Investment:SG-Moomoo:Securities      2148 TQQQ
-   Assets:Investment:SG-Moomoo:Securities        16 UNH
-   Assets:Investment:SG-Moomoo:Securities        75 UPRO
-   Assets:Investment:SG-Moomoo:Securities        62 VOO
-   Assets:Investment:SG-Moomoo:Securities         1 DUOL-260116-360C
-   Assets:Investment:SG-Moomoo:Securities        -1 DUOL-260116-380C
-   Assets:Investment:SG-Moomoo:Securities         1 DUOL-260320-320C
-   Assets:Investment:SG-Moomoo:Securities        -1 DUOL-260320-340C
-   Assets:Investment:SG-Moomoo:Securities         1 GOOGL-260618-155C
-   Assets:Investment:SG-Moomoo:Securities        -1 GOOGL-260618-175C
-   Assets:Investment:SG-Moomoo:Securities         1 GOOGL-260618-200C
-   Assets:Investment:SG-Moomoo:Securities        -1 GOOGL-260618-220C
-   Assets:Investment:SG-Moomoo:Securities         1 GOOGL-270115-155C
-   Assets:Investment:SG-Moomoo:Securities        -1 GOOGL-270115-205C
-   Assets:Investment:SG-Moomoo:Securities         1 SOFI-260320-28C
-   Assets:Investment:SG-Moomoo:Securities         1 TQQQ-260116-29C
-   Assets:Investment:SG-Moomoo:Securities        -1 TQQQ-260116-34C
+   Assets:Bank:SG-DBS                        1430.33 SGD
+   Assets:Bank:SG-Trust                        53.67 SGD
+   Assets:Bank:TW-LINE                         29380 TWD
+   Assets:Bank:TW-Richart                        200 TWD
+   Assets:Bank:TW-ChunghwaPost                10,080 TWD
+   Assets:Bank:TW-ChunghwaPost-TD          3,735,804 TWD
+   Assets:Cash                                 3,000 USD
+   Assets:Investment:SG-Moomoo:Securities   8,040.29 USD
+   Assets:Investment:SG-Moomoo:Securities          2 AVGO
+   Assets:Investment:SG-Moomoo:Securities        400 BOXX
+   Assets:Investment:SG-Moomoo:Securities         42 IBIT
+   Assets:Investment:SG-Moomoo:Securities         17 METU
+   Assets:Investment:SG-Moomoo:Securities          2 ORCL
+   Assets:Investment:SG-Moomoo:Securities    88.2052 QQQ
+   Assets:Investment:SG-Moomoo:Securities         15 RKLB
+   Assets:Investment:SG-Moomoo:Securities         98 SMR
+   Assets:Investment:SG-Moomoo:Securities         19 SOFI
+   Assets:Investment:SG-Moomoo:Securities       2148 TQQQ
+   Assets:Investment:SG-Moomoo:Securities         16 UNH
+   Assets:Investment:SG-Moomoo:Securities         75 UPRO
+   Assets:Investment:SG-Moomoo:Securities         62 VOO
+   Assets:Investment:SG-Moomoo:Securities          1 DUOL-260116-360C
+   Assets:Investment:SG-Moomoo:Securities         -1 DUOL-260116-380C
+   Assets:Investment:SG-Moomoo:Securities          1 DUOL-260320-320C
+   Assets:Investment:SG-Moomoo:Securities         -1 DUOL-260320-340C
+   Assets:Investment:SG-Moomoo:Securities          1 GOOGL-260618-155C
+   Assets:Investment:SG-Moomoo:Securities         -1 GOOGL-260618-175C
+   Assets:Investment:SG-Moomoo:Securities          1 GOOGL-260618-200C
+   Assets:Investment:SG-Moomoo:Securities         -1 GOOGL-260618-220C
+   Assets:Investment:SG-Moomoo:Securities          1 GOOGL-270115-155C
+   Assets:Investment:SG-Moomoo:Securities         -1 GOOGL-270115-205C
+   Assets:Investment:SG-Moomoo:Securities          1 SOFI-260320-28C
+   Assets:Investment:SG-Moomoo:Securities          1 TQQQ-260116-29C
+   Assets:Investment:SG-Moomoo:Securities         -1 TQQQ-260116-34C
 
 include "./2026/**/*.bean"
