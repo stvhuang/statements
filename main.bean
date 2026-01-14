@@ -4,9 +4,11 @@ option "operating_currency" "SGD"
 option "operating_currency" "TWD"
 option "operating_currency" "USD"
 
+; Equity
 2026-01-01 open Equity:Opening-Balances
 2026-01-01 open Equity:Rounding
 
+; Assets:Bank
 2026-01-01 open Assets:Bank:SG-DBS SGD, USD
 2026-01-01 open Assets:Bank:SG-Trust SGD
 2026-01-01 open Assets:Bank:TW-ChunghwaPost TWD
@@ -15,9 +17,11 @@ option "operating_currency" "USD"
 2026-01-01 open Assets:Bank:TW-Richart TWD
 2026-01-01 open Assets:Cash CNY, SGD, TWD, USD
 
+; Assets:Investment
 2026-01-01 open Assets:Investment:SG-Moomoo:Securities
 2026-01-01 open Assets:Investment:SG-Moomoo:Futures
 
+; Expenses
 2026-01-01 open Expenses:Fees:Commissions
 2026-01-01 open Expenses:Food
 2026-01-01 open Expenses:Housing:Internet
@@ -28,6 +32,8 @@ option "operating_currency" "USD"
 2026-01-01 open Expenses:Tax:Interest
 2026-01-01 open Expenses:Transport:Public
 2026-01-01 open Expenses:Transport:Taxi
+
+; Income
 2026-01-01 open Income:Interest
 
 ; init

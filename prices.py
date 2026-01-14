@@ -1,14 +1,21 @@
 from datetime import datetime
+from tqdm.auto import tqdm
 
 import yfinance as yf
 
 TICKERS = [
+    "AAPL",
+    "AMZN",
     "AVGO",
     "BOXX",
+    "GLD",
+    "GOOG",
+    "GOOGL",
     "IBIT",
     "META",
     "METU",
     "MSFT",
+    "NFLX",
     "NVDA",
     "ORCL",
     "QQQ",
@@ -17,6 +24,8 @@ TICKERS = [
     "SMR",
     "SOFI",
     "TQQQ",
+    "TSLA",
+    "TSM",
     "UNH",
     "UPRO",
     "VOO",
@@ -26,7 +35,7 @@ filename = "prices.bean"
 try:
     prices = {}
 
-    for ticker in TICKERS:
+    for ticker in tqdm(TICKERS):
         hist = yf.Ticker(ticker).history(period="1d")
 
         if not hist.empty:
@@ -42,9 +51,7 @@ try:
 
     # Write to beancount file
     with open(filename, "w") as f:
-        f.write(
-            f"; fetched on {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n"
-        )
+        f.write(f"; fetched on {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
 
         for t, data in prices.items():
             price = data["price"]
