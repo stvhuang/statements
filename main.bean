@@ -43,7 +43,7 @@ option "operating_currency" "USD"
    Assets:Bank:SG-Trust                        53.67 SGD
    Assets:Bank:TW-LINE                         29380 TWD
    Assets:Bank:TW-Richart                        200 TWD
-   Assets:Bank:TW-ChunghwaPost                10,080 TWD
+   Assets:Bank:TW-ChunghwaPost                10,008 TWD
    Assets:Bank:TW-ChunghwaPost-TD          3,735,804 TWD
    Assets:Cash                                   300 USD
    Assets:Investment:SG-Moomoo:Securities   8,040.29 USD
