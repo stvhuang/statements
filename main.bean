@@ -1,8 +1,4 @@
 option "title" "stvhuang"
-option "operating_currency" "CNY"
-option "operating_currency" "IDR" ; Indonesian Rupiah
-option "operating_currency" "INR" ; Indian Rupee
-option "operating_currency" "NZD"
 option "operating_currency" "SGD"
 option "operating_currency" "TWD"
 option "operating_currency" "USD"
@@ -21,7 +17,7 @@ option "operating_currency" "USD"
 2026-01-01 open Assets:Bank:TW-ChunghwaPost-TD TWD ; time deposit
 2026-01-01 open Assets:Bank:TW-LINE TWD, USD
 2026-01-01 open Assets:Bank:TW-Richart TWD
-2026-01-01 open Assets:Cash CNY, IDR, IND, NZD, SGD, TWD, USD
+2026-01-01 open Assets:Cash CNY, IDR, INR, NZD, SGD, TWD, USD
 
 ; Assets:Investment
 2026-01-01 open Assets:Investment:SG-Moomoo:Securities
@@ -53,7 +49,7 @@ option "operating_currency" "USD"
    Assets:Bank:TW-ChunghwaPost                10,008 TWD
    Assets:Bank:TW-ChunghwaPost-TD          3,735,804 TWD
    Assets:Cash                             2,010,100 IDR
-   Assets:Cash                                16,115 IND
+   Assets:Cash                                16,115 INR
    Assets:Cash                                 821.6 NZD
    Assets:Cash                                   300 USD
    Assets:Investment:SG-Moomoo:Securities   8,040.29 USD
