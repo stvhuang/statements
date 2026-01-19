@@ -96,3 +96,8 @@
 2026-01-12 * "Rounding"
   Assets:Investment:SG-Moomoo:Securities   -0.06 USD
   Equity:Rounding
+
+2026-01-16 * "Option Expiry"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities    -100 DUOL-260116-360C @@ 0.0 USD
+  Assets:Investment:SG-Moomoo:Securities     100 DUOL-260116-380C @@ 0.00 USD
