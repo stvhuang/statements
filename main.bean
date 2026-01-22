@@ -25,6 +25,7 @@ option "operating_currency" "USD"
 
 ; Expenses
 2026-01-01 open Expenses:Fees:Commissions
+2026-01-01 open Expenses:Fees:Commissions:TelegraphicTransfer ; 電匯手續費
 2026-01-01 open Expenses:Fees:Postage ; 郵電費
 2026-01-01 open Expenses:Food
 2026-01-01 open Expenses:Housing:Internet
