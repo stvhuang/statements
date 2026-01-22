@@ -1,3 +1,7 @@
 2026-01-01 *
   Assets:Bank:TW-Richart
-  Assets:Cash  10000 TWD
+  Assets:Cash  10,000 TWD
+
+2026-01-21 *
+  Assets:Bank:TW-Richart
+  Assets:Cash   2,000 TWD

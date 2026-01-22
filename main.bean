@@ -25,8 +25,7 @@ option "operating_currency" "USD"
 
 ; Expenses
 2026-01-01 open Expenses:Fees:Commissions
-2026-01-01 open Expenses:Fees:Commissions:TelegraphicTransfer ; 電匯手續費
-2026-01-01 open Expenses:Fees:Postage ; 郵電費
+2026-01-01 open Expenses:Fees:Wire
 2026-01-01 open Expenses:Food
 2026-01-01 open Expenses:Housing:Internet
 2026-01-01 open Expenses:Housing:Rent
@@ -46,6 +45,7 @@ option "operating_currency" "USD"
    Assets:Bank:SG-DBS                       1,430.33 SGD
    Assets:Bank:SG-Trust                        53.67 SGD
    Assets:Bank:TW-LINE                         29380 TWD
+   Assets:Bank:TW-LINE                        100.02 USD
    Assets:Bank:TW-Richart                        200 TWD
    Assets:Bank:TW-ChunghwaPost                10,008 TWD
    Assets:Bank:TW-ChunghwaPost-TD          3,735,804 TWD

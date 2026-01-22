@@ -15,7 +15,7 @@
   Assets:Bank:TW-ChunghwaPost        -673 TWD
 
 2026-01-19 * "提轉匯兌"
-  Assets:Transit
+  Assets:Transit                  115,000 USD @@ 3,628,250 TWD
   Assets:Bank:TW-ChunghwaPost  -3,629,350 TWD
-  Expenses:Fees:Commissions           800 TWD
-  Expenses:Fees:Postage               300 TWD
+  Expenses:Fees:Wire                  800 TWD
+  Expenses:Fees:Wire                  300 TWD

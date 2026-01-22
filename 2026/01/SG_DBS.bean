@@ -1,10 +1,11 @@
 2026-01-20 * "Inward Tegegraphic Transfer"
-  Assets:Transit
-  Assets:Bank:SG-DBS                             114,975.00 USD
-  Expenses:Fees:Commissions:TelegraphicTransfer        7.71 USD
+  Assets:Bank:SG-DBS
+  Assets:Transit      -115,000.00 USD
+  Expenses:Fees:Wire        25.00 USD ; Correspondent Bank Fee
+  Expenses:Fees:Wire         7.71 USD ;
 
 2026-01-20 * "Remittance Transfer of Funds"
   Assets:Investment:SG-Moomoo:Securities
-  Assets:Bank:SG-DBS                                   -100 USD
-  Assets:Bank:SG-DBS                                   -900 USD
-  Assets:Bank:SG-DBS                               -109,000 USD
+  Assets:Bank:SG-DBS         -100 USD
+  Assets:Bank:SG-DBS         -900 USD
+  Assets:Bank:SG-DBS     -109,000 USD
