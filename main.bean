@@ -35,6 +35,7 @@ option "operating_currency" "USD"
 2026-01-01 open Expenses:Tax:Interest
 2026-01-01 open Expenses:Transport:Public
 2026-01-01 open Expenses:Transport:Taxi
+2026-01-01 open Expenses:Unknown
 
 ; Income
 2026-01-01 open Income:Interest
