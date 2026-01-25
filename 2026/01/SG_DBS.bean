@@ -1,3 +1,35 @@
+2026-01-06 * "IBG IRAS ITX G4042803N"
+  Assets:Bank:SG-DBS
+  Expenses:Tax               648.85 SGD
+
+2026-01-06 * "BILL DBSC-???"
+  Assets:Bank:SG-DBS
+  Expenses:Unknown           405.02 SGD
+
+2026-01-06 * "TRF FT???"
+  Assets:Bank:SG-DBS
+  Expenses:Unknown           126.49 SGD
+
+2026-01-14 * "ICT PayNow ???"
+  Assets:Bank:SG-DBS
+  Expenses:Unknown             4.20 SGD
+
+2026-01-14 * "ICT PayNow ???"
+  Assets:Bank:SG-DBS
+  Expenses:Unknown             4.20 SGD
+
+2026-01-14 * "Cash Withdrawl"
+  Assets:Bank:SG-DBS
+  Assets:Cash                    20 SGD
+
+2026-01-15 * "ICT PayNow ???"
+  Assets:Bank:SG-DBS
+  Expenses:Food:Dining        19.18 SGD
+
+2026-01-20 * "TRF FT-???"
+  Assets:Bank:SG-DBS
+  Expenses:Food:Dining        28.33 SGD
+
 2026-01-20 * "Inward Tegegraphic Transfer"
   Assets:Bank:SG-DBS
   Assets:Transit        -115,000.00 USD
@@ -10,6 +42,6 @@
   Assets:Bank:SG-DBS           -900 USD
   Assets:Bank:SG-DBS       -109,000 USD
 
-2026-01-20 * ""
+2026-01-25 * ""
   Assets:Bank:SG-DBS
   Assets:Bank:SG-Trust          120 SGD
