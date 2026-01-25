@@ -3,3 +3,6 @@ format:
 
 prices:
 	python prices.py
+
+commit:
+	git commit -m "$(date +'%Y-%m-%d %H:%M:%S')"
