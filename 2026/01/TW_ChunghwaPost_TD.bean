@@ -1,0 +1,5 @@
+2026-01-02 * "定存淨額"
+  Assets:Bank:TW-ChunghwaPost-TD
+  Assets:Bank:TW-ChunghwaPost  3,735,804 TWD
+
+2026-01-02 close Assets:Bank:TW-ChunghwaPost-TD

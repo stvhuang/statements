@@ -1,3 +1,3 @@
-2026-01-20 * "Pay Credit Card Bill"
+2026-01-20 * "Credit card payment"
   Assets:Bank:SG-Trust
   Liabilities:CreditCard:SG-Trust  163.70 SGD

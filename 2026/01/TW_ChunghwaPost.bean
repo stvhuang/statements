@@ -1,21 +1,17 @@
-2026-01-02 * "定存淨額"
-  Assets:Bank:TW-ChunghwaPost-TD
-  Assets:Bank:TW-ChunghwaPost   3,735,804 TWD
-
 2026-01-02 * "利息"
-  Income:Interest
-  Assets:Bank:TW-ChunghwaPost      31,881 TWD
+  Assets:Bank:TW-ChunghwaPost
+  Income:Interest                -31,881 TWD
 
 2026-01-02 * "扣所得稅"
-  Expenses:Tax
-  Assets:Bank:TW-ChunghwaPost      -3,188 TWD
+  Assets:Bank:TW-ChunghwaPost
+  Expenses:Tax                     3,188 TWD
 
 2026-01-02 * "補充保費"
-  Expenses:Insurance:Government
-  Assets:Bank:TW-ChunghwaPost        -673 TWD
+  Assets:Bank:TW-ChunghwaPost
+  Expenses:Insurance:Government      673 TWD
 
 2026-01-19 * "提轉匯兌"
-  Assets:Transit                  115,000 USD @@ 3,628,250 TWD
-  Assets:Bank:TW-ChunghwaPost  -3,629,350 TWD
-  Expenses:Fees:Wire                  800 TWD
-  Expenses:Fees:Wire                  300 TWD
+  Assets:Bank:TW-ChunghwaPost
+  Assets:Transit                 115,000 USD @@ 3,628,250 TWD
+  Expenses:Fees:Wire                 800 TWD
+  Expenses:Fees:Wire                 300 TWD

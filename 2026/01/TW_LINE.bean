@@ -1,7 +1,11 @@
 2026-01-01 *
-  Assets:Bank:TW-Richart
-  Assets:Bank:TW-LINE  -10,000 TWD
+  Assets:Bank:TW-LINE
+  Assets:Bank:TW-Richart  10,000 TWD
 
 2026-01-21 *
-  Assets:Bank:TW-Richart
-  Assets:Bank:TW-LINE   -2,000 TWD
+  Assets:Bank:TW-LINE
+  Assets:Bank:TW-Richart   2,000 TWD
+
+2026-01-21 * ""
+  Assets:Bank:TW-LINE
+  Income:Interest          -0.02 USD
