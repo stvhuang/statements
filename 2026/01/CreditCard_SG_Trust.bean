@@ -1,0 +1,67 @@
+2025-12-15 * "Mcdonald's"
+  Liabilities:CreditCard:SG-Trust
+  Expenses:Food:Dining         8.30 SGD
+
+2025-12-18 * "Mcdonald's"
+  Liabilities:CreditCard:SG-Trust 
+  Expenses:Food:Dining         7.50 SGD
+
+2025-12-19 * "Mcdonald's"
+  Liabilities:CreditCard:SG-Trust 
+  Expenses:Food:Dining         7.50 SGD
+
+2025-12-23 * "Mcdonald's"
+  Liabilities:CreditCard:SG-Trust 
+  Expenses:Food:Dining         9.30 SGD
+
+2025-12-24 * "Mcdonald's"
+  Liabilities:CreditCard:SG-Trust  
+  Expenses:Food:Dining         7.50 SGD
+
+2025-12-26 * "Mcdonald's"
+  Liabilities:CreditCard:SG-Trust  
+  Expenses:Food:Dining         6.10 SGD
+
+2025-12-27 * "Bus/ MRT"
+  Liabilities:CreditCard:SG-Trust  
+  Expenses:Transport:Public    3.32 SGD
+
+2025-12-31 * "iTunes"
+  Liabilities:CreditCard:SG-Trust
+  Expenses:Subscription       12.96 SGD
+
+2026-01-06 * "WEIXIN Shanghai Gold ShenZhen" "29.50 CNY"
+  Liabilities:CreditCard:SG-Trust
+  Expenses:General             5.45 SGD
+
+2026-01-06 * "WEIXIN Shenzhen Fengch" "30.00 CNY"
+  Liabilities:CreditCard:SG-Trust  
+  Expenses:General             5.54 SGD
+
+2026-01-07 * "WEIXIN Mobile recharge Beijing" "100.00 CNY"
+  Liabilities:CreditCard:SG-Trust
+  Expenses:General            18.40 SGD
+
+2026-01-07 * "Grab"
+  Liabilities:CreditCard:SG-Trust 
+  Expenses:Transport:Private  20.00 SGD
+
+2026-01-07 * "Trip.com" "955.00 TWD"
+  Liabilities:CreditCard:SG-Trust
+  Expenses:General            38.99 SGD
+
+2026-01-09 * "WEIXIN Shenzhen Fengch" "Refund: 15.00 CNY"
+  Liabilities:CreditCard:SG-Trust
+  Expenses:General            -2.75 SGD
+
+2026-01-10 * "WEIXIN Shanghai Golden" "26.50 CNY"
+  Liabilities:CreditCard:SG-Trust
+  Expenses:General             4.89 SGD
+
+2026-01-14 * "Bus/ MRT"
+  Liabilities:CreditCard:SG-Trust 
+  Expenses:Transport:Public    2.40 SGD
+
+2026-01-15 * "7-Eleven"
+  Liabilities:CreditCard:SG-Trust
+  Expenses:Food:Dining         8.30 SGD

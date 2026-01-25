@@ -4,44 +4,46 @@ option "operating_currency" "TWD"
 option "operating_currency" "USD"
 
 ; Equity
-2026-01-01 open Equity:Opening-Balances
-2026-01-01 open Equity:Rounding
+2025-12-01 open Equity:Opening-Balances
+2025-12-01 open Equity:Rounding
 
-; Assets
-2026-01-01 open Assets:Transit
-
-; Assets:Bank
-2026-01-01 open Assets:Bank:SG-DBS SGD, USD
-2026-01-01 open Assets:Bank:SG-Trust SGD
-2026-01-01 open Assets:Bank:TW-ChunghwaPost TWD
-2026-01-01 open Assets:Bank:TW-ChunghwaPost-TD TWD ; time deposit
-2026-01-01 open Assets:Bank:TW-LINE TWD, USD
-2026-01-01 open Assets:Bank:TW-Richart TWD
-2026-01-01 open Assets:Cash CNY, IDR, INR, NZD, SGD, TWD, USD
-
-; Assets:Investment
-2026-01-01 open Assets:Investment:SG-Moomoo:Securities
-2026-01-01 open Assets:Investment:SG-Moomoo:Futures
-
-; Expenses
-2026-01-01 open Expenses:Fees:Commissions
-2026-01-01 open Expenses:Fees:Wire
-2026-01-01 open Expenses:Food
-2026-01-01 open Expenses:Housing:Internet
-2026-01-01 open Expenses:Housing:Rent
-2026-01-01 open Expenses:Housing:Utilities
-2026-01-01 open Expenses:Insurance:Government
-2026-01-01 open Expenses:Tax:Income
-2026-01-01 open Expenses:Tax:Interest
-2026-01-01 open Expenses:Transport:Public
-2026-01-01 open Expenses:Transport:Taxi
-2026-01-01 open Expenses:Unknown
-
-; Income
-2026-01-01 open Income:Interest
+2025-12-01 open Assets:Bank:SG-DBS SGD, USD
+2025-12-01 open Assets:Bank:SG-Trust SGD
+2025-12-01 open Assets:Bank:TW-ChunghwaPost TWD
+2025-12-01 open Assets:Bank:TW-ChunghwaPost-TD TWD ; time deposit
+2025-12-01 open Assets:Bank:TW-LINE TWD, USD
+2025-12-01 open Assets:Bank:TW-Richart TWD
+2025-12-01 open Assets:Cash CNY, IDR, INR, NZD, SGD, TWD, USD
+2025-12-01 open Assets:Investment:SG-Moomoo:Futures
+2025-12-01 open Assets:Investment:SG-Moomoo:Securities
+2025-12-01 open Assets:Transit
+2025-12-01 open Expenses:Fees:Commissions
+2025-12-01 open Expenses:Fees:Wire
+2025-12-01 open Expenses:Food:Dining
+2025-12-01 open Expenses:Food:Groceries
+2025-12-01 open Expenses:General
+2025-12-01 open Expenses:Housing:Internet ; 網路費
+2025-12-01 open Expenses:Housing:Maintenance ; 修繕
+2025-12-01 open Expenses:Housing:Rent ; 房租
+2025-12-01 open Expenses:Housing:Utilities ; 水電瓦斯
+2025-12-01 open Expenses:Insurance:Government
+2025-12-01 open Expenses:Shopping:Clothing
+2025-12-01 open Expenses:Shopping:Electronics
+2025-12-01 open Expenses:Subscription
+2025-12-01 open Expenses:Tax
+2025-12-01 open Expenses:Transport:Flight
+2025-12-01 open Expenses:Transport:Private
+2025-12-01 open Expenses:Transport:Public
+2025-12-01 open Expenses:Travel
+2025-12-01 open Expenses:Unknown
+2025-12-01 open Income:Bonus
+2025-12-01 open Income:Interest
+2025-12-01 open Income:Salary
+2025-12-01 open Liabilities:CreditCard:SG-DBS SGD
+2025-12-01 open Liabilities:CreditCard:SG-Trust SGD
 
 ; init
-2026-01-01 * "Init"
+2025-12-01 * "Init"
    Equity:Opening-Balances
    Assets:Bank:SG-DBS                       1,430.33 SGD
    Assets:Bank:SG-Trust                        53.67 SGD

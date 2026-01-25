@@ -7,7 +7,7 @@
   Assets:Bank:TW-ChunghwaPost      31,881 TWD
 
 2026-01-02 * "扣所得稅"
-  Expenses:Tax:Interest
+  Expenses:Tax
   Assets:Bank:TW-ChunghwaPost      -3,188 TWD
 
 2026-01-02 * "補充保費"
