@@ -22,7 +22,7 @@
   Liabilities:CreditCard:SG-Trust  
   Expenses:Food:Dining         6.10 SGD
 
-2025-12-27 * "Bus/ MRT"
+2025-12-27 * "Bus / MRT"
   Liabilities:CreditCard:SG-Trust  
   Expenses:Transport:Public    3.32 SGD
 
@@ -30,15 +30,15 @@
   Liabilities:CreditCard:SG-Trust
   Expenses:Subscription       12.96 SGD
 
-2026-01-06 * "WEIXIN Shanghai Gold ShenZhen" "29.50 CNY"
+2026-01-06 * "WEIXIN*Shanghai Gold ShenZhen CN"
   Liabilities:CreditCard:SG-Trust
   Expenses:General             5.45 SGD
 
-2026-01-06 * "WEIXIN Shenzhen Fengch" "30.00 CNY"
+2026-01-06 * "WEIXIN*Shenzhen Fengch 95017 CN"
   Liabilities:CreditCard:SG-Trust  
   Expenses:General             5.54 SGD
 
-2026-01-07 * "WEIXIN Mobile recharge Beijing" "100.00 CNY"
+2026-01-07 * "WEIXIN*Mobile recharge Beijing CN"
   Liabilities:CreditCard:SG-Trust
   Expenses:General            18.40 SGD
 
@@ -46,19 +46,19 @@
   Liabilities:CreditCard:SG-Trust 
   Expenses:Transport:Private  20.00 SGD
 
-2026-01-07 * "Trip.com" "955.00 TWD"
+2026-01-07 * "Trip.com"
   Liabilities:CreditCard:SG-Trust
   Expenses:General            38.99 SGD
 
-2026-01-09 * "WEIXIN Shenzhen Fengch" "Refund: 15.00 CNY"
+2026-01-09 * "WEIXIN*Shenzhen Fengch Shenzhen 51801 CN"
   Liabilities:CreditCard:SG-Trust
   Expenses:General            -2.75 SGD
 
-2026-01-10 * "WEIXIN Shanghai Golden" "26.50 CNY"
+2026-01-10 * "WEIXIN*Shanghai Golden 5210747029 CN"
   Liabilities:CreditCard:SG-Trust
   Expenses:General             4.89 SGD
 
-2026-01-14 * "Bus/ MRT"
+2026-01-14 * "Bus / MRT"
   Liabilities:CreditCard:SG-Trust 
   Expenses:Transport:Public    2.40 SGD
 
