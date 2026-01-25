@@ -17,7 +17,11 @@ option "operating_currency" "USD"
 2025-12-01 open Assets:Investment:SG-Moomoo:Futures
 2025-12-01 open Assets:Investment:SG-Moomoo:Securities
 2025-12-01 open Assets:Transit
+2025-12-01 open Expenses:Clothing
+2025-12-01 open Expenses:Cloud
+2025-12-01 open Expenses:Electronics
 2025-12-01 open Expenses:Fees:Commissions
+2025-12-01 open Expenses:Fees:CreditCard
 2025-12-01 open Expenses:Fees:Wire
 2025-12-01 open Expenses:Food:Dining
 2025-12-01 open Expenses:Food:Groceries
@@ -27,17 +31,17 @@ option "operating_currency" "USD"
 2025-12-01 open Expenses:Housing:Rent ; 房租
 2025-12-01 open Expenses:Housing:Utilities ; 水電瓦斯
 2025-12-01 open Expenses:Insurance:Government
-2025-12-01 open Expenses:Shopping:Clothing
-2025-12-01 open Expenses:Shopping:Electronics
+2025-12-01 open Expenses:Phone
 2025-12-01 open Expenses:Subscription
 2025-12-01 open Expenses:Tax
-2025-12-01 open Expenses:Transport:Flight
 2025-12-01 open Expenses:Transport:Private
 2025-12-01 open Expenses:Transport:Public
-2025-12-01 open Expenses:Travel
+2025-12-01 open Expenses:Travel:Flight
+2025-12-01 open Expenses:Travel:Hotel
 2025-12-01 open Expenses:Unknown
 2025-12-01 open Income:Bonus
 2025-12-01 open Income:Interest
+2025-12-01 open Income:Rewards
 2025-12-01 open Income:Salary
 2025-12-01 open Liabilities:CreditCard:SG-DBS SGD
 2025-12-01 open Liabilities:CreditCard:SG-Trust SGD

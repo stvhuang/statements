@@ -1,0 +1,91 @@
+2025-12-15 * "MYREPUBLIC LIMITED"
+  Liabilities:CreditCard:SG-DBS
+  Expenses:Phone                18.86 SGD
+
+2025-12-22 * "ANNUAL FEE"
+  Liabilities:CreditCard:SG-DBS
+  Expenses:Fees:CreditCard     180.00 SGD
+
+2025-12-22 * "GST @ 9%"
+  Liabilities:CreditCard:SG-DBS
+  Expenses:Fees:CreditCard      16.20 SGD
+
+2025-12-29 * "SINGTEL PREPAID HI!ACC"
+  Liabilities:CreditCard:SG-DBS
+  Expenses:Phone                12.00 SGD
+
+2025-12-30 * "IONOS INC 877-4612631 PA U. S. DOLLAR 2.18"
+  Liabilities:CreditCard:SG-DBS
+  Expenses:Cloud                 2.90 SGD
+
+2026-01-01 * "UNIQLO TAIWAN LTD. MIAOLI TW NEW TAIWAN DOLLAR 6193.00"
+  Liabilities:CreditCard:SG-DBS
+  Expenses:Clothing            262.40 SGD
+
+2026-01-02 * "AMAZON WEB SERVICES AWS.AMAZON.CO WA U. S. DOLLAR 19.75"
+  Liabilities:CreditCard:SG-DBS
+  Expenses:Cloud                26.24 SGD
+
+2026-01-02 * "GOOGLE*CLOUD V8QZ2Z NEW TAIWAN DOLLAR 841.00"
+  Liabilities:CreditCard:SG-DBS
+  Expenses:Cloud                35.29 SGD
+
+2026-01-02 * "SEVEN SEAS WORLDWIDE 01303814777 GB"
+  Liabilities:CreditCard:SG-DBS
+  Expenses:General             525.66 SGD
+
+2026-01-04 * "SHANGHAI SHENTONG METR SHANGHAI CN YUAN RENMINBI 3.00"
+  Liabilities:CreditCard:SG-DBS
+  Expenses:Transport:Public      0.57 SGD
+
+2026-01-05 * "SHANGHAI SHENTONG METR SHANGHAI CN YUAN RENMINBI 4.00"
+  Liabilities:CreditCard:SG-DBS
+  Expenses:Transport:Public      0.77 SGD
+
+2026-01-05 * "SHANGHAI SHENTONG METR SHANGHAI CN YUAN RENMINBI 4.00"
+  Liabilities:CreditCard:SG-DBS
+  Expenses:Transport:Public      0.77 SGD
+
+2026-01-06 * "SHANGHAI SHENTONG METR SHANGHAI CN YUAN RENMINBI 3.00"
+  Liabilities:CreditCard:SG-DBS
+  Expenses:Transport:Public      0.57 SGD
+
+2026-01-06 * "SHANGHAI SHENTONG METR SHANGHAI CN YUAN RENMINBI 6.00"
+  Liabilities:CreditCard:SG-DBS
+  Expenses:Transport:Public      1.15 SGD
+
+2026-01-08 * "UBER RIDES TAIPEI CITY TW NEW TAIWAN DOLLAR 330.00"
+  Liabilities:CreditCard:SG-DBS
+  Expenses:Transport:Private    13.90 SGD
+
+2026-01-09 * "FLYSCOOT.0000000OGRIRH"
+  Liabilities:CreditCard:SG-DBS
+  Expenses:Travel:Flight       148.09 SGD
+
+2026-01-09 * "SHANGHAI SHENTONG METR SHANGHAI CN YUAN RENMINBI 6.00"
+  Liabilities:CreditCard:SG-DBS
+  Expenses:Transport:Public      1.13 SGD
+
+2026-01-09 * "ALP*DIDI TAXI SHANGH CN YUAN RENMINBI 40.85"
+  Liabilities:CreditCard:SG-DBS
+  Expenses:Transport:Private     7.77 SGD
+
+2026-01-10 * "SHANGHAI SHENTONG METR SHANGHAI CN YUAN RENMINBI 3.00"
+  Liabilities:CreditCard:SG-DBS
+  Expenses:Transport:Public      0.57 SGD
+
+2026-01-10 * "SHANGHAI SHENTONG METR SHANGHAI CN YUAN RENMINBI 6.00"
+  Liabilities:CreditCard:SG-DBS
+  Expenses:Transport:Public      1.15 SGD
+
+2026-01-13 * "ANNUAL FEE REVERSAL"
+  Liabilities:CreditCard:SG-DBS
+  Expenses:Fees:CreditCard    -180.00 SGD
+
+2026-01-13 * "GST REVERSAL"
+  Liabilities:CreditCard:SG-DBS
+  Expenses:Fees:CreditCard     -16.20 SGD
+
+2026-01-13 * "HOTEL AT BOOKING.COM AMSTERDAM NL"
+  Liabilities:CreditCard:SG-DBS
+  Expenses:Travel:Hotel         55.41 SGD
