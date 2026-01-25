@@ -4,6 +4,7 @@ option "operating_currency" "TWD"
 option "operating_currency" "USD"
 
 ; Equity
+2025-12-01 open Equity:Open-Orders
 2025-12-01 open Equity:Opening-Balances
 2025-12-01 open Equity:Rounding
 
@@ -47,7 +48,7 @@ option "operating_currency" "USD"
 2025-12-01 open Liabilities:CreditCard:SG-Trust SGD
 
 ; init
-2025-12-01 * "Init"
+2026-01-01 * "Init"
    Equity:Opening-Balances
    Assets:Bank:SG-DBS                       1,430.33 SGD
    Assets:Bank:SG-Trust                        53.67 SGD
@@ -60,6 +61,7 @@ option "operating_currency" "USD"
    Assets:Cash                                16,115 INR
    Assets:Cash                                 821.6 NZD
    Assets:Cash                                   300 USD
+   Assets:Investment:SG-Moomoo:Futures     46,609.83 USD
    Assets:Investment:SG-Moomoo:Securities   8,040.29 USD
    Assets:Investment:SG-Moomoo:Securities          2 AVGO
    Assets:Investment:SG-Moomoo:Securities        400 BOXX
@@ -87,6 +89,11 @@ option "operating_currency" "USD"
    Assets:Investment:SG-Moomoo:Securities        100 SOFI-260320-28C
    Assets:Investment:SG-Moomoo:Securities      1,200 TQQQ-260116-29C
    Assets:Investment:SG-Moomoo:Securities     -1,200 TQQQ-260116-34C
+
+2026-01-01 * "Init"
+   Equity:Open-Orders
+   Assets:Investment:SG-Moomoo:Futures             3 MES2603 {0 USD} @ 6,885.00 USD
+   Assets:Investment:SG-Moomoo:Futures             4 MNQ2603 {0 USD} @ 25,400.75 USD
 
 include "./prices.bean"
 include "./2026/**/*.bean"
