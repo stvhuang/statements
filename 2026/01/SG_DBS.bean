@@ -54,3 +54,7 @@
   Assets:Bank:SG-DBS
   Assets:Investment:SG-Moomoo:Securities          100 USD
   Assets:Investment:SG-Moomoo:Securities        4,900 USD
+
+2026-01-26 * ""
+  Assets:Bank:SG-DBS
+  Liabilities:CreditCard:SG-DBS              1,114.63 SGD
