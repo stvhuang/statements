@@ -1,11 +1,24 @@
 2026-01-02 * ""
   Assets:Cash
-  Assets:Cash       1,500 CNY @@ 6,851 TWD
+  Assets:Cash           1,500 CNY @@ 6,851 TWD
 
 2026-01-24 * ""
   Assets:Cash
-  Expenses:Unknown  3,275 TWD
+  Expenses:Unknown      3,275 TWD
 
 2026-01-25 * ""
   Assets:Cash
-  Expenses:Unknown   4.80 SGD
+  Expenses:Unknown       4.80 SGD
+
+2026-01-26 * "奶奶看醫生 @ 大千骨科"
+  Assets:Cash
+  Expenses:Others         230 TWD ; 掛號費
+  Expenses:Others          30 TWD ; 停車費
+
+2026-01-26 * "停車費"
+  Assets:Cash
+  Expenses:Others          10 TWD
+
+2026-01-26 * "午餐（我，奶奶，Wiji）"
+  Assets:Cash
+  Expenses:Food:Dining    365 TWD
