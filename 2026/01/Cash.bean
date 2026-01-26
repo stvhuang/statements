@@ -4,7 +4,7 @@
 
 2026-01-24 * ""
   Assets:Cash
-  Expenses:Unknown      3,275 TWD
+  Expenses:Unknown      3,270 TWD
 
 2026-01-25 * ""
   Assets:Cash
@@ -14,10 +14,6 @@
   Assets:Cash
   Expenses:Others         230 TWD ; 掛號費
   Expenses:Others          30 TWD ; 停車費
-
-2026-01-26 * "停車費"
-  Assets:Cash
-  Expenses:Others          10 TWD
 
 2026-01-26 * "午餐（我，奶奶，Wiji）"
   Assets:Cash
