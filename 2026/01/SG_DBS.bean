@@ -45,3 +45,12 @@
 2026-01-25 * ""
   Assets:Bank:SG-DBS
   Assets:Bank:SG-Trust                            120 SGD
+
+2026-01-26 * ""
+  Assets:Bank:SG-DBS                           -41.86 SGD @@ 32.71 USD
+  Assets:Bank:SG-DBS
+
+2026-01-26 * ""
+  Assets:Bank:SG-DBS
+  Assets:Investment:SG-Moomoo:Securities          100 USD
+  Assets:Investment:SG-Moomoo:Securities        4,900 USD

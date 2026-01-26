@@ -1,7 +1,15 @@
 2026-01-01 *
   Assets:Bank:TW-TaishinRichart
-  Assets:Cash  10,000 TWD
+  Assets:Cash                     10,000 TWD
 
 2026-01-21 *
   Assets:Bank:TW-TaishinRichart
-  Assets:Cash   2,000 TWD
+  Assets:Cash                      2,000 TWD
+
+2026-01-26 *
+  Assets:Bank:TW-TaishinRichart  -45,554 TWD @@ 1,800 SGD
+  Assets:Bank:SG-DBS
+
+2026-01-26 *
+  Assets:Bank:TW-TaishinRichart  -47,818 TWD @@ 1,890 SGD
+  Assets:Bank:SG-DBS

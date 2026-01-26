@@ -19,3 +19,8 @@
   Assets:Bank:TW-ChunghwaPost
   Assets:Bank:TW-TaishinRichart   50,000 TWD
   Expenses:Fees:Commissions           12 TWD
+
+2026-01-26 * "網路跨行"
+  Assets:Bank:TW-ChunghwaPost
+  Assets:Bank:TW-TaishinRichart   44,446 TWD
+  Expenses:Fees:Commissions           12 TWD
