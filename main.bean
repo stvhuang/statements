@@ -13,7 +13,7 @@ option "operating_currency" "USD"
 2025-12-01 open Assets:Bank:TW-ChunghwaPost TWD
 2025-12-01 open Assets:Bank:TW-ChunghwaPost-TD TWD ; time deposit
 2025-12-01 open Assets:Bank:TW-LINE TWD, USD
-2025-12-01 open Assets:Bank:TW-Richart TWD
+2025-12-01 open Assets:Bank:TW-TaishinRichart TWD
 2025-12-01 open Assets:Cash CNY, IDR, INR, NZD, SGD, TWD, USD
 2025-12-01 open Assets:Investment:SG-Moomoo:Futures
 2025-12-01 open Assets:Investment:SG-Moomoo:Securities
@@ -54,7 +54,7 @@ option "operating_currency" "USD"
    Assets:Bank:SG-Trust                        53.67 SGD
    Assets:Bank:TW-LINE                         29380 TWD
    Assets:Bank:TW-LINE                        100.00 USD
-   Assets:Bank:TW-Richart                        200 TWD
+   Assets:Bank:TW-TaishinRichart                 200 TWD
    Assets:Bank:TW-ChunghwaPost                10,008 TWD
    Assets:Bank:TW-ChunghwaPost-TD          3,735,804 TWD
    Assets:Cash                             2,010,100 IDR
