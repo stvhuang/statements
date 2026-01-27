@@ -196,3 +196,38 @@
 2026-01-21 * "Rounding"
   Assets:Investment:SG-Moomoo:Securities   -0.04 USD
   Equity:Rounding
+
+2026-01-23 * "Buy TQQQ"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities      11 TQQQ @@ 587.18 USD
+  Expenses:Fees:Commissions                 1.11 USD
+
+2026-01-23 * "Buy TQQQ"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities       5 TQQQ @@ 266.90 USD
+  Assets:Investment:SG-Moomoo:Securities       6 TQQQ @@ 320.28 USD
+  Expenses:Fees:Commissions                 1.12 USD
+
+2026-01-23 * "Sell QQQ"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities      -1 QQQ @@ 619.09 USD
+  Expenses:Fees:Commissions                 1.09 USD
+
+2026-01-23 * "Rounding"
+  Assets:Investment:SG-Moomoo:Securities     0.7 USD
+  Equity:Rounding
+
+2026-01-26 * "Buy BOXX"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities      38 BOXX @@ 4,386.72 USD
+  Expenses:Fees:Commissions                 1.20 USD
+
+2026-01-26 * "Buy TQQQ"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities       6 TQQQ @@ 322.32 USD
+  Expenses:Fees:Commissions                 1.10 USD
+
+2026-01-26 * "Sell QQQ"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities      -1 QQQ @@ 620.21 USD
+  Expenses:Fees:Commissions                 1.09 USD
