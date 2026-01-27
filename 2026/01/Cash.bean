@@ -4,11 +4,11 @@
 
 2026-01-24 * ""
   Assets:Cash
-  Expenses:Unknown      3,270 TWD
+  Expenses:Unknown      3,275 TWD
 
 2026-01-25 * ""
   Assets:Cash
-  Expenses:Unknown       4.80 SGD
+  Expenses:Unknown       4.60 SGD
 
 2026-01-26 * "奶奶看醫生 @ 大千骨科"
   Assets:Cash
@@ -18,3 +18,12 @@
 2026-01-26 * "午餐（我，奶奶，Wiji）"
   Assets:Cash
   Expenses:Food:Dining    365 TWD
+
+2026-01-27 * "奶奶看醫生 @ 大千心臟科"
+  Assets:Cash
+  Expenses:Others         430 TWD
+
+2026-01-27 * "奶奶拐杖"
+  Assets:Cash
+  Expenses:Others         135 TWD
+  Expenses:Others         680 TWD
