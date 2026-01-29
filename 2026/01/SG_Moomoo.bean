@@ -231,3 +231,8 @@
   Assets:Investment:SG-Moomoo:Securities
   Assets:Investment:SG-Moomoo:Securities      -1 QQQ @@ 620.21 USD
   Expenses:Fees:Commissions                 1.09 USD
+
+2026-01-27 * "Buy IBIT"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities       7 IBIG @@ 350.42 USD
+  Expenses:Fees:Commissions                 1.10 USD
