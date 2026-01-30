@@ -98,3 +98,4 @@ option "operating_currency" "USD"
 
 include "./prices.bean"
 include "./2026/**/*.bean"
+include "./temp.bean""
