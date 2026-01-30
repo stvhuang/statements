@@ -1,49 +1,69 @@
 2026-01-02 * ""
   Assets:Cash
-  Assets:Cash           1,500 CNY @@ 6,851 TWD
+  Assets:Cash                      1,500 CNY @@ 6,851 TWD
 
 2026-01-24 * ""
   Assets:Cash
-  Expenses:Unknown      3,275 TWD
+  Expenses:Unknown                 3,275 TWD
 
 2026-01-25 * ""
   Assets:Cash
-  Expenses:Unknown       4.60 SGD
+  Expenses:Unknown                  4.60 SGD
 
 2026-01-26 * "奶奶看醫生 @ 大千骨科"
   Assets:Cash
-  Expenses:Others         230 TWD ; 掛號費
-  Expenses:Others          30 TWD ; 停車費
+  Expenses:Others                    230 TWD ; 掛號費
+  Expenses:Others                     30 TWD ; 停車費
 
 2026-01-26 * "午餐（我，奶奶，Wiji）"
   Assets:Cash
-  Expenses:Food:Dining    365 TWD
+  Expenses:Food:Dining               365 TWD
 
 2026-01-27 * "奶奶看醫生 @ 大千心臟科"
   Assets:Cash
-  Expenses:Others         430 TWD
+  Expenses:Others                    430 TWD
 
 2026-01-27 * "奶奶拐杖"
   Assets:Cash
-  Expenses:Others         135 TWD
-  Expenses:Others         680 TWD
+  Expenses:Others                    135 TWD
+  Expenses:Others                    680 TWD
 
 2026-01-28 * "加油"
   Assets:Cash
-  Expenses:Others         500 TWD
+  Expenses:Others                    500 TWD
 
 2026-01-28 * "停車"
   Assets:Cash
-  Expenses:Others          60 TWD
+  Expenses:Others                     60 TWD
 
 2026-01-28 * "8Bitdo SN30 Pro"
   Assets:Cash
-  Expenses:Electronics  1,190 TWD
+  Expenses:Electronics             1,190 TWD
 
 2026-01-28 * "燒仙草*3"
   Assets:Cash
-  Expenses:Electronics    135 TWD
+  Expenses:Electronics               135 TWD
 
 2026-01-28 * "雞腿*3+薯條"
   Assets:Cash
-  Expenses:Electronics    215 TWD
+  Expenses:Electronics               215 TWD
+
+2026-01-29 * ""
+  Assets:Cash                       0.30 SGD
+  Equity:Opening-Balances
+
+2026-01-29 * "奶奶看醫生 @ 福苗診所 復健科"
+  Assets:Cash
+  Expenses:Others                     50 TWD
+
+2026-01-29 * "蛋塔"
+  Assets:Cash
+  Expenses:Food:Snacks               130 TWD
+
+2026-01-29 * "奶奶"
+  Assets:Cash                    100,000 TWD
+  Equity:Opening-Balances
+
+2026-01-29 * ""
+  Assets:Cash
+  Assets:Bank:TW-TaishinRichart   10,000 TWD

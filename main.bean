@@ -26,6 +26,7 @@ option "operating_currency" "USD"
 2025-12-01 open Expenses:Fees:Wire
 2025-12-01 open Expenses:Food:Dining
 2025-12-01 open Expenses:Food:Groceries
+2025-12-01 open Expenses:Food:Snacks
 2025-12-01 open Expenses:General
 2025-12-01 open Expenses:Housing:Internet ; 網路費
 2025-12-01 open Expenses:Housing:Maintenance ; 修繕
@@ -98,4 +99,4 @@ option "operating_currency" "USD"
 
 include "./prices.bean"
 include "./2026/**/*.bean"
-include "./temp.bean""
+; include "./temp.bean""
