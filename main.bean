@@ -6,6 +6,7 @@ option "operating_currency" "USD"
 ; Equity
 2025-12-01 open Equity:Open-Orders
 2025-12-01 open Equity:Opening-Balances
+2025-12-01 open Equity:Unknown
 2025-12-01 open Equity:Rounding
 
 2025-12-01 open Assets:Bank:SG-DBS SGD, USD

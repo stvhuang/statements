@@ -17,3 +17,7 @@
 2026-01-27 *
   Assets:Bank:TW-TaishinRichart
   Assets:Cash                      5,000 TWD
+
+2026-01-30 *
+  Assets:Bank:TW-TaishinRichart        8 TWD
+  Income:Interest

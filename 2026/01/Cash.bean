@@ -61,9 +61,22 @@
   Expenses:Food:Snacks               130 TWD
 
 2026-01-29 * "奶奶"
-  Assets:Cash                    100,000 TWD
+  Assets:Cash                    100,100 TWD
   Equity:Opening-Balances
 
-2026-01-29 * ""
+2026-01-30 * ""
   Assets:Cash
   Assets:Bank:TW-TaishinRichart   10,000 TWD
+
+2026-01-31 * ""
+  Assets:Cash
+  Assets:Bank:TW-TaishinRichart   30,000 TWD
+
+2026-01-31 * "地下偶像門票+火鍋"
+  Assets:Cash
+  Expenses:General                   600 TWD
+  Expenses:General                   550 TWD
+
+2026-01-31 * "晚餐 @ 北車"
+  Assets:Cash
+  Expenses:Food:Dining               170 TWD
