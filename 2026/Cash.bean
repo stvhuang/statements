@@ -80,3 +80,11 @@
 2026-01-31 * "晚餐 @ 北車"
   Assets:Cash
   Expenses:Food:Dining               170 TWD
+
+2026-02-01 * ""
+  Assets:Cash
+  Assets:Bank:TW-TaishinRichart  29,000 TWD
+
+2026-02-01 * ""
+  Assets:Cash                        40 TWD
+  Equity:Unknown

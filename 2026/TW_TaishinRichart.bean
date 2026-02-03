@@ -21,3 +21,15 @@
 2026-01-30 *
   Assets:Bank:TW-TaishinRichart        8 TWD
   Income:Interest
+
+2026-02-02 * "街口支付扣款"
+  Assets:Bank:TW-TaishinRichart
+  Expenses:Unknown                   100 TWD
+
+2026-02-02 *
+  Assets:Bank:TW-TaishinRichart  -48,298 TWD @@ 1,900 SGD
+  Assets:Bank:SG-DBS
+
+2026-02-02 *
+  Assets:Bank:TW-TaishinRichart  -48,292 TWD @@ 1,900 SGD
+  Assets:Bank:SG-DBS
