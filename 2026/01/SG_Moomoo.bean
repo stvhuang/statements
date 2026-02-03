@@ -236,3 +236,24 @@
   Assets:Investment:SG-Moomoo:Securities
   Assets:Investment:SG-Moomoo:Securities       7 IBIG @@ 350.42 USD
   Expenses:Fees:Commissions                 1.10 USD
+
+2026-01-28 * "Buy TQQQ"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities       6 TQQQ @@ 338.40 USD
+  Expenses:Fees:Commissions                 1.10 USD
+
+2026-01-28 * "Sell QQQ"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities      -1 QQQ @@ 634.31 USD
+  Expenses:Fees:Commissions                 1.09 USD
+
+2026-01-28 * "Buy MSFT"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities       2 MSFT @@ 900.70 USD
+  Expenses:Fees:Commissions                 1.09 USD
+
+2026-01-28 * "Close DUOL-260320-320C-340C"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities     100 DUOL-260320-340C @@ 30.00 USD
+  Assets:Investment:SG-Moomoo:Securities    -100 DUOL-260320-320C @@ 31.00 USD
+  Expenses:Fees:Commissions                 6.57 USD

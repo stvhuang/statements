@@ -1,5 +1,4 @@
 beancount
 fava
-monopoly-core
 tqdm
 yfinance
