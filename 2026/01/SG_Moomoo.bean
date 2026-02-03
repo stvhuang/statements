@@ -317,3 +317,33 @@
   Assets:Investment:SG-Moomoo:Securities
   Assets:Investment:SG-Moomoo:Securities       2 MSFT @@ 852.72 USD
   Expenses:Fees:Commissions                 1.09 USD
+
+2026-01-30 * "Buy TQQQ"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities       6 TQQQ @@ 322.98 USD
+  Expenses:Fees:Commissions                 1.10 USD
+
+2026-01-30 * "Buy TQQQ"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities       6 TQQQ @@ 327.78 USD
+  Expenses:Fees:Commissions                 1.10 USD
+
+2026-01-30 * "Sell QQQ"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities      -1 QQQ @@ 624.06 USD
+  Expenses:Fees:Commissions                 1.09 USD
+
+2026-01-30 * "Sell QQQ"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities      -1 QQQ @@ 621.41 USD
+  Expenses:Fees:Commissions                 1.09 USD
+
+2026-01-31 * "Buy TQQQ"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities       6 TQQQ @@ 320.70 USD
+  Expenses:Fees:Commissions                 1.10 USD
+
+2026-01-31 * "Sell QQQ"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities      -1 QQQ @@ 619.82 USD
+  Expenses:Fees:Commissions                 1.09 USD
