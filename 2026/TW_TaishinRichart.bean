@@ -33,3 +33,7 @@
 2026-02-02 *
   Assets:Bank:TW-TaishinRichart  -48,292 TWD @@ 1,900 SGD
   Assets:Bank:SG-DBS
+
+2026-02-04 *
+  Assets:Bank:TW-TaishinRichart
+  Assets:Cash                      5,000 TWD

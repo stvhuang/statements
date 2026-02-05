@@ -347,3 +347,129 @@
   Assets:Investment:SG-Moomoo:Securities
   Assets:Investment:SG-Moomoo:Securities      -1 QQQ @@ 619.82 USD
   Expenses:Fees:Commissions                 1.09 USD
+
+2026-02-02 * "Buy TQQQ"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities       6 TQQQ @@ 314.70 USD
+  Expenses:Fees:Commissions                 1.10 USD
+
+2026-02-02 * "Sell QQQ"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities      -1 QQQ @@ 615.62 USD
+  Expenses:Fees:Commissions                 1.09 USD
+
+2026-02-02 * "Buy TQQQ"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities       6 TQQQ @@ 308.70 USD
+  Expenses:Fees:Commissions                 1.10 USD
+
+2026-02-02 * "Buy UPRO"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities       5 UPRO @@ 578.70 USD
+  Expenses:Fees:Commissions                 1.10 USD
+
+2026-02-02 * "Sell QQQ"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities      -1 QQQ @@ 612.13 USD
+  Expenses:Fees:Commissions                 1.09 USD
+
+2026-02-02 * "Buy BOXX"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities      20 BOXX @@ 2,309.80 USD
+  Assets:Investment:SG-Moomoo:Securities      22 BOXX @@ 2,540.78 USD
+  Expenses:Fees:Commissions                 1.22 USD
+
+2026-02-02 * "Buy IBIT"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities       8 IBIT @@ 341.20 USD
+  Expenses:Fees:Commissions                 1.10 USD
+
+2026-02-02 * "Sell VOO"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities      -1 VOO @@ 633.49 USD
+  Expenses:Fees:Commissions                 1.09 USD
+
+2026-02-03 * "Buy TQQQ"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities       6 TQQQ @@ 328.50 USD
+  Expenses:Fees:Commissions                 1.10 USD
+
+2026-02-03 * "Buy UPRO"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities       6 UPRO @@ 717.96 USD
+  Expenses:Fees:Commissions                 1.10 USD
+
+2026-02-04 * "Buy UPRO"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities       6 UPRO @@ 705.96 USD
+  Expenses:Fees:Commissions                 1.10 USD
+
+2026-02-04 * "Buy UPRO"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities       6 UPRO @@ 693.96 USD
+  Expenses:Fees:Commissions                 1.10 USD
+
+2026-02-03 * "Buy TQQQ"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities       6 TQQQ @@ 322.50 USD
+  Expenses:Fees:Commissions                 1.10 USD
+
+2026-02-03 * "Buy TQQQ"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities       6 TQQQ @@ 316.50 USD
+  Expenses:Fees:Commissions                 1.10 USD
+
+2026-02-03 * "Sell QQQ"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities      -1 QQQ @@ 625.08 USD
+  Expenses:Fees:Commissions                 1.09 USD
+
+2026-02-03 * "Sell QQQ"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities      -1 QQQ @@ 621.12 USD
+  Expenses:Fees:Commissions                 1.09 USD
+
+2026-02-03 * "Sell QQQ"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities      -1 QQQ @@ 619.81 USD
+  Expenses:Fees:Commissions                 1.09 USD
+
+2026-02-04 * "Buy TQQQ"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities       6 TQQQ @@ 310.50 USD
+  Expenses:Fees:Commissions                 1.10 USD
+
+2026-02-03 * "Sell VOO"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities     -30 VOO @@ 19,125.31 USD
+  Expenses:Fees:Commissions                 1.19 USD
+
+2026-02-04 * "Sell QQQ"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities      -1 QQQ @@ 615.23 USD
+  Expenses:Fees:Commissions                 1.09 USD
+
+2026-02-04 * "Sell VOO"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities      -2 VOO @@ 1,267.24 USD
+  Expenses:Fees:Commissions                 1.10 USD
+
+2026-02-04 * "Buy BOXX"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities     168 BOXX @@ 19,407.36 USD
+  Expenses:Fees:Commissions                 1.62 USD
+
+2026-02-04 * "Buy TQQQ"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities      12 TQQQ @@ 628.08 USD
+  Expenses:Fees:Commissions                 1.12 USD
+
+2026-02-04 * "Buy UPRO"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities       5 UPRO @@ 590.90 USD
+  Expenses:Fees:Commissions                 1.10 USD
+
+2026-02-04 * "Sell BOXX"
+  Assets:Investment:SG-Moomoo:Securities
+  Assets:Investment:SG-Moomoo:Securities      -5 BOXX @@ 577.55 USD
+  Expenses:Fees:Commissions                 1.11 USD

@@ -53,8 +53,27 @@
 2026-01-26 * ""
   Assets:Bank:SG-DBS
   Assets:Investment:SG-Moomoo:Securities          100 USD
+
+2026-01-26 * ""
+  Assets:Bank:SG-DBS
   Assets:Investment:SG-Moomoo:Securities        4,900 USD
 
 2026-01-26 * ""
   Assets:Bank:SG-DBS
   Liabilities:CreditCard:SG-DBS              1,114.63 SGD
+
+2026-02-02 * ""
+  Assets:Bank:SG-DBS                        -3,843.18 SGD @@ 3,000 USD
+  Assets:Bank:SG-DBS
+
+2026-02-02 * ""
+  Assets:Bank:SG-DBS
+  Assets:Investment:SG-Moomoo:Securities          100 USD
+
+2026-02-02 * ""
+  Assets:Bank:SG-DBS
+  Assets:Investment:SG-Moomoo:Securities        2,900 USD
+
+2026-02-02 * "房租押金"
+  Assets:Bank:SG-DBS                           913.33 SGD
+  Equity:Opening-Balances

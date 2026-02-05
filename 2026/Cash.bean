@@ -83,8 +83,56 @@
 
 2026-02-01 * ""
   Assets:Cash
-  Assets:Bank:TW-TaishinRichart  29,000 TWD
+  Assets:Bank:TW-TaishinRichart   29,000 TWD
 
 2026-02-01 * ""
-  Assets:Cash                        40 TWD
+  Assets:Cash                         40 TWD
   Equity:Unknown
+
+2026-02-01 * "奶奶復健"
+  Assets:Cash
+  Expenses:Others                    200 TWD
+
+2026-02-01 * "給奶奶"
+  Assets:Cash
+  Expenses:Others                    100 TWD
+
+2026-02-02 *
+  Assets:Cash
+  Assets:Bank:TW-TaishinRichart    8,000 TWD
+
+2026-02-02 *
+  Assets:Cash
+  Assets:Bank:TW-TaishinRichart   22,000 TWD
+
+2026-02-03 * "午餐"
+  Assets:Cash
+  Expenses:Food:Dining               110 TWD
+
+2026-02-03 * "三人午餐"
+  Assets:Cash
+  Expenses:Food:Dining               415 TWD
+
+2026-02-03 * "貝納頌 @ 小北"
+  Assets:Cash
+  Expenses:General                   129 TWD
+
+2026-02-04 * "奶奶復健"
+  Assets:Cash
+  Expenses:General                   100 TWD
+
+2026-02-04 * "香"
+  Assets:Cash
+  Expenses:General                    10 TWD
+
+2026-02-04 * "打鑰匙"
+  Assets:Cash
+  Expenses:General                    30 TWD
+
+2026-02-04 * "網咖"
+  Assets:Cash
+  Expenses:General                   100 TWD
+
+2026-02-04 *
+  Assets:Cash
+  Expenses:Sex                     1,400 TWD

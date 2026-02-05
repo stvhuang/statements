@@ -36,6 +36,7 @@ option "operating_currency" "USD"
 2025-12-01 open Expenses:Insurance:Government
 2025-12-01 open Expenses:Others
 2025-12-01 open Expenses:Phone
+2025-12-01 open Expenses:Sex
 2025-12-01 open Expenses:Subscription
 2025-12-01 open Expenses:Tax
 2025-12-01 open Expenses:Transport:Private
@@ -100,4 +101,4 @@ option "operating_currency" "USD"
 
 include "./prices.bean"
 include "./2026/**/*.bean"
-; include "./temp.bean""
+include "./temp.bean"
